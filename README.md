@@ -48,7 +48,7 @@
 - console.log()
   
 **Exmaple:**
-  ```
+  ```javascript
   window.alter("Hello World");
   ```
 #### 2.2 Connect JS to HTML File
