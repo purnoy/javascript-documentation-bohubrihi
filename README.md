@@ -94,6 +94,17 @@ console.log("Hello Bohubrihi");
 - To comment multiple line of you code, select codes using mouse and press 'ctrl + /' in keyboard
   
 #### 2.4 User Input
+**prompt function**
+***example script.js***
+```javascript
+var x; 
+x = prompt("Enter you name"); 
+console.log(x);
+```
+**উপরের প্রোগ্রামটি স্টেপগুলো হলো**
+- x একটি ভ্যারিয়েবল যেখানে আপনি কোনো মান রাখতে পারবেন
+- prompt এর মাধ্যমে যে ভ্যালু আপনি লিখবেন তা x-এর ভেতরে স্টোর হবে
+- browser-এ রাইট ক্লিক দিয়ে inpect element-এ যান। এরপর console এ গিয়ে দেখুন আপনি x-এর মান যা লিখেছিলেন তা console.log(x) লেখার কারণে সেখানে পোষত হয়েছে।
 #### 2.5 Complete the quiz and post the result on facebook group
 
 ## 3. Variables & Contstants
