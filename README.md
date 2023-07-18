@@ -110,6 +110,16 @@ console.log(x);
 ## 3. Variables & Contstants
 
 #### 3.1 JavaScript Variables Part - 1
+**variable declaration**
+- আপনি var, let ও const লিখে ভ্যারিয়েবল ডিক্লেয়ার করতে পারবেন।
+- এই let ও const-এর ব্যবহার অ্যাডভান্সড লেভেলে শিখানো হবে।
+- ভ্যারিয়েবলের ভ্যালু কম্পিউটারের একটি অ্যাড্রেসে বা মেমোরিতে অ্যালোকেট হয়।
+
+***example script.js***
+var myName;
+myName = 30;
+var myName = 30;
+```
 #### 3.2 JavaScript Variables Part - 2
 #### 3.3 JavaScript Constants and Keywords
 #### 3.4 Complete the quiz and post the result on facebook group
