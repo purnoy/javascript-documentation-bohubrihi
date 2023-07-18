@@ -41,6 +41,16 @@
 ## 2. Now Start Coding!
 
 #### 2.1 JavaScript Outputs
+**Displaying Output**
+- window.alert()
+- document.write()
+- innerHTML
+- console.log()
+  
+**Exmaple:**
+  ```
+  window.alter("Hello World");
+  ```
 #### 2.2 Connect JS to HTML File
 #### 2.3 Statement, Syntax, Comments
 #### 2.4 User Input
