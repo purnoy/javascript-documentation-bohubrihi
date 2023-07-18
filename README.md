@@ -51,11 +51,15 @@
   ```html
 //This is a index.html file
 <body>
+   <h1 id="idH1"></h1>
+   <h3 id="idH3"></h3>
    <p id="root"></p>
    <script>
       window.alter("Hello World");
       document.write("Hello Bangladesh");
       document.getElementById("root").innerHTML = "I Love Dhaka";
+      document.getElementById("idH1").InnerHTML = "I am H1";
+      document.getElementById("idH3").InnerHTML = "I am H3";
       console.log("Hello Bohubrihi");
    </script>
 </body>
