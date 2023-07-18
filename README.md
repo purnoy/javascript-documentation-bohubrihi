@@ -85,6 +85,14 @@ document.getElementById("idH3").InnerHTML = "I am H3";
 console.log("Hello Bohubrihi");
 ```
 #### 2.3 Statement, Syntax, Comments
+**Statement**
+- In javascript every line is a statement. It's a good practice to use semicolon to close a statement.
+**Syntax**
+- Strings should be written inside single and double quotation.
+- Number does not need quotation.
+- Using // you can comment about your code.
+- To comment multiple line of you code, select codes using mouse and press 'ctrl + /' in keyboard
+  
 #### 2.4 User Input
 #### 2.5 Complete the quiz and post the result on facebook group
 
