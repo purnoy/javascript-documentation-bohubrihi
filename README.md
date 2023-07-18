@@ -65,6 +65,25 @@
 </body>
   ```
 #### 2.2 Connect JS to HTML File
+**Exmaple:**
+***index.html File***
+  ```html
+<body>
+   <h1 id="idH1"></h1>
+   <h3 id="idH3"></h3>
+   <p id="root"></p>
+   <script src="script.js"></script>
+</body>
+  ```
+***script.js Fil***
+```javascript
+      window.alter("Hello World");
+      document.write("Hello Bangladesh");
+      document.getElementById("root").innerHTML = "I Love Dhaka";
+      document.getElementById("idH1").InnerHTML = "I am H1";
+      document.getElementById("idH3").InnerHTML = "I am H3";
+      console.log("Hello Bohubrihi");
+```
 #### 2.3 Statement, Syntax, Comments
 #### 2.4 User Input
 #### 2.5 Complete the quiz and post the result on facebook group
