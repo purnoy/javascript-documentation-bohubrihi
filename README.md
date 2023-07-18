@@ -122,5 +122,27 @@ myName = 30;
 var myName = 30;
 ```
 #### 3.2 JavaScript Variables Part - 2
+***Example - 1***
+***example script.js***
+```javascript
+var a;
+a = 45;
+console.log(a);
+a =35;
+console.log(a);
+a = "simanta"
+console.log(a)
+```
+
+***Example - 2***
+```javascript
+var a = 20; // a-এর ভ্যালু ২০
+var b = a; // b-এর ভ্যালু ২০
+console.log(a); // ২০ প্রিন্ট হবে
+console.log(b); // ২০ প্রিন্ট হবে
+a = 30; // a-এর ভ্যালু ৩০ হবে
+console.log(a); // ৩০ প্রিন্ট হবে
+console.log(b); // কিন্তু এখানে ২০ ই প্রিন্ট হবে কারণ a এর ভ্যালু বদলানোর পর b এর চেঞ্জ আনতে কোনো কোড লেখা হয়নি।
+```
 #### 3.3 JavaScript Constants and Keywords
 #### 3.4 Complete the quiz and post the result on facebook group
