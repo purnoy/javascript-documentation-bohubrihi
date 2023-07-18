@@ -116,6 +116,7 @@ console.log(x);
 - ভ্যারিয়েবলের ভ্যালু কম্পিউটারের একটি অ্যাড্রেসে বা মেমোরিতে অ্যালোকেট হয়।
 
 ***example script.js***
+```javascript
 var myName;
 myName = 30;
 var myName = 30;
