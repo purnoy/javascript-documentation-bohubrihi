@@ -112,14 +112,13 @@ console.log(x);
 #### 3.1 JavaScript Variables Part - 1
 **variable declaration**
 - আপনি var, let ও const লিখে ভ্যারিয়েবল ডিক্লেয়ার করতে পারবেন।
-- এই let ও const-এর ব্যবহার অ্যাডভান্সড লেভেলে শিখানো হবে।
 - ভ্যারিয়েবলের ভ্যালু কম্পিউটারের একটি অ্যাড্রেসে বা মেমোরিতে অ্যালোকেট হয়।
 
 ***example script.js***
 ```javascript
 var myName;
 myName = 30;
-var myName = 30;
+let myName = 30;
 ```
 #### 3.2 JavaScript Variables Part - 2
 ***Example - script.js***
@@ -159,4 +158,7 @@ console.log(c); // যোগফল প্রিন্ট হবে
 - abstract, break, await, class ইত্যাদি হলো ভ্যারিয়েবলের রিজার্ভ কি-ওয়ার্ড। এইগুলো ব্যবহার করে ভ্যারিয়েবলের নাম লেখা যাবে না।
 
 #### 3.3 JavaScript Constants and Keywords
+- const -এর ভ্যালু চেঞ্জ হবে না।
+- ধরুন const a = 3 লিখেছেন। তাহলে a এর মান সবসময় 3 থাকবে। এটা চেঞ্জ করা সম্ভব না।
+- জাভাস্ক্রিপ্টে রিজার্ভড কিওয়ার্ড আছে যেমন var, let, const, abstract, break, await, class ইত্যাদি। এগুলো রিজার্ভ কি-ওয়ার্ড। এইগুলো ব্যবহার করে ভ্যারিয়েবলের নাম লেখা যাবে না।
 #### 3.4 Complete the quiz and post the result on facebook group
