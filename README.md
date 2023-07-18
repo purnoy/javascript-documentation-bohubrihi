@@ -49,7 +49,11 @@
   
 **Exmaple:**
   ```javascript
+  <script>
   window.alter("Hello World");
+  document.write("Hello Bangladesh")
+  console.log("Hello Dhaka")
+  </script>
   ```
 #### 2.2 Connect JS to HTML File
 #### 2.3 Statement, Syntax, Comments
