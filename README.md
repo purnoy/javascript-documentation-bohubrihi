@@ -51,15 +51,13 @@
   ```html
 //This is a index.html file
 <body>
-<p id="root"></p>
-<script>
-  window.alter("Hello World");
-  document.write("Hello Bangladesh");
-
-  document.getElementById("root").innerHTML = "I Love Dhaka";
-  
-  console.log("Hello Bohubrihi");
-</script>
+   <p id="root"></p>
+   <script>
+      window.alter("Hello World");
+      document.write("Hello Bangladesh");
+      document.getElementById("root").innerHTML = "I Love Dhaka";
+      console.log("Hello Bohubrihi");
+   </script>
 </body>
   ```
 #### 2.2 Connect JS to HTML File
