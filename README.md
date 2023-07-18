@@ -48,12 +48,19 @@
 - console.log()
   
 **Exmaple:**
-  ```javascript
-  <script>
+  ```html
+//This is a index.html file
+<body>
+<p id="root"></p>
+<script>
   window.alter("Hello World");
-  document.write("Hello Bangladesh")
-  console.log("Hello Dhaka")
-  </script>
+  document.write("Hello Bangladesh");
+
+  document.getElementById("root").innerHTML = "I Love Dhaka";
+  
+  console.log("Hello Bohubrihi");
+</script>
+</body>
   ```
 #### 2.2 Connect JS to HTML File
 #### 2.3 Statement, Syntax, Comments
