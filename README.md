@@ -75,14 +75,14 @@
    <script src="script.js"></script>
 </body>
   ```
-***script.js Fil***
+***script.js File***
 ```javascript
-      window.alter("Hello World");
-      document.write("Hello Bangladesh");
-      document.getElementById("root").innerHTML = "I Love Dhaka";
-      document.getElementById("idH1").InnerHTML = "I am H1";
-      document.getElementById("idH3").InnerHTML = "I am H3";
-      console.log("Hello Bohubrihi");
+window.alter("Hello World");
+document.write("Hello Bangladesh");
+document.getElementById("root").innerHTML = "I Love Dhaka";
+document.getElementById("idH1").InnerHTML = "I am H1";
+document.getElementById("idH3").InnerHTML = "I am H3";
+console.log("Hello Bohubrihi");
 ```
 #### 2.3 Statement, Syntax, Comments
 #### 2.4 User Input
