@@ -163,14 +163,14 @@ console.log(c); // যোগফল প্রিন্ট হবে
 #### 3.4 Complete the quiz and post the result on facebook group
 
 ## 4. Operators
-### 4.1 Arithmetic Operators
-### 4.2 String Operators
-### 4.3 Comparison, Logical and Conditional Operators
-### 4.4 Assignment Operators
-### 4.5 Exercise
+#### 4.1 Arithmetic Operators
+#### 4.2 String Operators
+#### 4.3 Comparison, Logical and Conditional Operators
+#### 4.4 Assignment Operators
+#### 4.5 Exercise
 
 ## 5. Data Types
-### 5.1 Different Types of Data
-### 5.2 Numbers 
-### 5.3 Strings
-### 5.4 Booleans
+#### 5.1 Different Types of Data
+#### 5.2 Numbers 
+#### 5.3 Strings
+#### 5.4 Booleans
