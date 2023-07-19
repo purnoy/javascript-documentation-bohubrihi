@@ -189,6 +189,23 @@ a = a + 1; //একেই সংক্ষেপে a++ বলা হয়
 b = 1 + b; // একে সংক্ষেপে ++b বলা হয়
 ```
 #### 4.2 String Operators
+***এক্সাম্পল***
+```javascript
+var line1 = "Hello";
+var line2 = "World";
+console.log(line1+" "+ line2);
+
+var num1 = 6;
+var num2 = 5;
+var num3 = "8";
+var num4 ="3";
+console.log(num1+num2);// আউটপুট হবে 11 এটি নাম্বার রেজাল্ট দিবে
+var str = "Bangladesh" 
+console.log(num1+str)// আউটপুট হবে "6Bangladesh"  সম্পূর্ণটা স্ট্রিং হয়ে যাবে
+console.log(num1+num3)// আউটপুট হবে "68"  সম্পূর্ণটা স্ট্রিং হয়ে যাবে
+console.log(num3-num2)// নরমাল বিয়োগ করে রেজাল্ট '5' দেখাবে কিন্তু তা স্ট্রিং আকারে থাকবে।
+console.log(num3-str)// আউটপুট আসবে NaN - নট এ নাম্বার
+```
 #### 4.3 Comparison, Logical and Conditional Operators
 #### 4.4 Assignment Operators
 #### 4.5 Exercise
