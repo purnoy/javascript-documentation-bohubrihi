@@ -161,3 +161,16 @@ console.log(c); // যোগফল প্রিন্ট হবে
 - ধরুন const a = 3 লিখেছেন। তাহলে a এর মান সবসময় 3 থাকবে। এটা চেঞ্জ করা সম্ভব না।
 - জাভাস্ক্রিপ্টে রিজার্ভড কিওয়ার্ড আছে যেমন var, let, const, abstract, break, await, class ইত্যাদি। এগুলো রিজার্ভ কি-ওয়ার্ড। এইগুলো ব্যবহার করে ভ্যারিয়েবলের নাম লেখা যাবে না।
 #### 3.4 Complete the quiz and post the result on facebook group
+
+## 4. Operators
+### 4.1 Arithmetic Operators
+### 4.2 String Operators
+### 4.3 Comparison, Logical and Conditional Operators
+### 4.4 Assignment Operators
+### 4.5 Exercise
+
+## 5. Data Types
+### 5.1 Different Types of Data
+### 5.2 Numbers 
+### 5.3 Strings
+### 5.4 Booleans
