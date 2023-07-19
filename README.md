@@ -207,6 +207,25 @@ console.log(num3-num2)// নরমাল বিয়োগ করে রেজা�
 console.log(num3-str)// আউটপুট আসবে NaN - নট এ নাম্বার
 ```
 #### 4.3 Comparison, Logical and Conditional Operators
+***Comparison Operators***
+```javascript
+var a = 4;
+var b= '4';
+var c = 5;
+a == b; //true
+a === b; //false
+a != c; //true
+a != b; //false
+a !==b  //true
+c>a; //true
+a>c true
+a<c //true
+c<a //false
+c>=a; //true
+a>=c; // false
+c<=a; //false
+a<=c //true
+```
 #### 4.4 Assignment Operators
 #### 4.5 Exercise
 
