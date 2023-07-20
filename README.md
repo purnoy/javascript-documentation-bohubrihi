@@ -261,6 +261,12 @@ false && false // returns false
 !(4>6) //returns true
 !(1<7) // returns false
 ```
+***Conditional Oparetor***
+
+```javascript
+a =(1<8)? "hello" : "world";
+console.log(a) //output 'hello';
+```
 
 #### 4.4 Assignment Operators
 #### 4.5 Exercise
