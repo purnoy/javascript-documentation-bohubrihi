@@ -269,6 +269,21 @@ console.log(a) //output 'hello';
 ```
 
 #### 4.4 Assignment Operators
+
+```javascript
+var a =19;
+var b = 12;
+a = b;
+console.log(a); //output 19
+a +=12;
+a -=10;
+a *=10;
+a /=2;
+a %=3;
+var name = 'hello';
+name = name+ ' world';
+console.log(name) // output 'Hello World'
+```
 #### 4.5 Exercise
 
 ## 5. Data Types
