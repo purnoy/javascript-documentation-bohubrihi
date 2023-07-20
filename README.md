@@ -284,7 +284,6 @@ var name = 'hello';
 name = name+ ' world';
 console.log(name) // output 'Hello World'
 ```
-#### 4.5 Exercise
 
 ## 5. Data Types
 #### 5.1 Different Types of Data
