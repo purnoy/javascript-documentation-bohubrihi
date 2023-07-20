@@ -235,6 +235,33 @@ a>=c; // false
 c<=a; //false
 a<=c //true
 ```
+***Logical Oparetor***
+- লজিকাল অপারেটর বামপক্ষ ও ডানপক্ষের লজিক মিলেছেন কিনা চেক করবে।
+- || হল or অপারেটর। বামপক্ষ ও ডানপক্ষের যেকোনো একটি true হলেই এটি true রিটার্ন করবে। 
+- && হল and অপারেটর। এটি কেবলমাত্র তখনই true রিটার্ন করবে যখন বামপক্ষ ও ডামপক্ষ দুটিই true। কিন্তু বামপক্ষ ও ডানপক্ষের যেকোনো একটি true না হলে এটি false রিটার্ন করবে। 
+
+- ! হলো not অপারেটর। এ অপারেটর বিপরীত কিছু বুঝাতে ব্যবহার করা হয়। সহজ বাংলা উদাহরণ দেই। ধরুন আমি বলতে চাই, 'ছেলেটি খারাপ'। এটাকে not অপারেটর ব্যবহার করলে এভাবে লিখবো 'ছেলেটি !ভালো' বা আমি যদি বলতে চাই,'ছেলেটি ভালো' তাহলে not অপারেটরব্যবহার করে লিখবো,'ছেলেটি !খারাপ' 
+
+```javascript
+true || true //returns true
+true || false // returns true
+false || true // returns true
+false || false // return false
+
+true && true // returns true
+true && false // returns flase
+false && true // returns false
+false && false // returns false
+
+!true //returns false
+!false //returns true
+
+(4>6) || (1<7) // returns true
+(4>6) && (1<7) // return false
+!(4>6) //returns true
+!(1<7) // returns false
+```
+
 #### 4.4 Assignment Operators
 #### 4.5 Exercise
 
